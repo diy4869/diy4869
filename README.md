@@ -1,4 +1,4 @@
-<ul style="display: flex; list-style: none;>
+<ul style="display: flex; list-style: none;">
   <li >
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diy4869&layout=compact">
   </li>
