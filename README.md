@@ -7,4 +7,4 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=diy4869.otaku-ui" />
 </p>
 
-![snake gif](https://github.com/qianxi0410/qianxi0410/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/diy4869/diy4869/blob/output/github-contribution-grid-snake.svg)
